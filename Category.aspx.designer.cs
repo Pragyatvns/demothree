@@ -11,7 +11,7 @@ namespace WebApplication20
 {
 
 
-    public partial class _Default
+    public partial class Category
     {
 
         /// <summary>
